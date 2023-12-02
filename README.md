@@ -1,2 +1,2 @@
 # MOJEPIERWSZEREPOo
-Gra w snaka
+Saper Game
